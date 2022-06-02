@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -r source_directory/*.{png,jpg,jpeg} target_directorycp -r . /*.html ..
